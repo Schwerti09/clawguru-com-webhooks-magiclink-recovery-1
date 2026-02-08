@@ -1,0 +1,1 @@
+clawguru user-magnet build-fixed | 2026-02-06T09:09:09Z | includes clean app/page.tsx (no stray sections)
